@@ -14,7 +14,6 @@ tuple_scoops = (3,1,4,1,5,9,2,6,5,4)
 
 # In[15]:
 
-
 print(tuple_scoops)
 
 
