@@ -10,6 +10,7 @@ tuple_scoops = (3,1,4,1,5,9,2,6,5,4)
 
 
 # A tuple is a list that is immutable, cannot be changed or modified as a list can.
+
 #Examples are details like country names, etc.
 
 # In[15]:
