@@ -4,6 +4,7 @@
 
 # In[16]:
 
+
 #tuple
 
 tuple_scoops = (3,1,4,1,5,9,2,6,5,4)
@@ -47,6 +48,7 @@ tuple_scoops[3]
 
 
 daily_pints = {1,2,3}
+
 
 print(daily_pints)
 
